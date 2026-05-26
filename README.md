@@ -292,6 +292,8 @@ TripStar/
 - [x] ~~支持多城市旅行~~
 - [ ] 添加小红书链接以及美食推荐增强
 - [ ] 前端优化
+- [ ] 车程信息
+- [ ] 服务器在线部署
 
 ## Star History
 
@@ -304,4 +306,6 @@ TripStar/
 </a>
 
 ## 🙏 致谢
-感谢 [linuxdo](https://linux.do/) 社区的交流、分享与反馈，让 TripStar 的迭代更高效。
+感谢 [linuxdo](https://linux.do/) 社区的交流、分享与反馈，让 TripStar 的迭代更高效，同时欢迎大家进群交流反馈
+<img width="431" height="411" alt="image" src="https://github.com/user-attachments/assets/118d46c0-a8e9-42fb-8110-c233fc4f6277" />
+
